@@ -1,0 +1,9 @@
+## TC003 — Login with empty fields
+Steps:
+1. Go to saucedemo.com
+2. Leave username and password empty
+3. Click Login button
+
+Expected result: Should show "username is required" error
+
+Status: Pass 
