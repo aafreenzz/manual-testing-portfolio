@@ -1,0 +1,9 @@
+## TC002 — Login with wrong password
+Steps:
+1. Go to saucedemo.com
+2. Enter correct username and wrong password
+3. Click Login button
+
+Expected result: Should show invalid password error
+
+Status: Pass 
